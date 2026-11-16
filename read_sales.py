@@ -71,6 +71,3 @@ with open("data/sales.csv", newline="") as infile, \
 
 print(f"Original rows: {original_count}")
 print(f"Rows written to cleaned.csv: {written_count}")
-
-print("---Exercise 6---")
-
